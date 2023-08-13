@@ -16,7 +16,7 @@
 
 # FAQ：
 ### 报错怎么办：
-请参考yolov5s安装依赖，python我使用3.6,cuda12.1,yolov5s代码使用V6.0tag
+### 请参考yolov5s安装依赖，python我使用3.6,cuda12.1,yolov5s代码使用V6.0tag
 
 # Demo：
-[![Alt text](./preview.png)](https://github.com/zenghuipeng1979outlookcom/yolov5_kalman/raw/main/result.mp4)
+[![Alt text](./result.gif)](https://github.com/zenghuipeng1979outlookcom/yolov5_kalman/raw/main/result.mp4)
