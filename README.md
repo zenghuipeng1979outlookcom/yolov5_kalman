@@ -5,7 +5,7 @@
 
 使用方法：
 
-解压zip，运行  python detect.py --source ~/Videos/testvideo1.mp4 --view-img 
+解压zip，运行  python3 detect.py --source ~/Videos/testvideo1.mp4 --view-img 
 
 报错请，参考yolov5s安装依赖
 
